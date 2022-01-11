@@ -1,3 +1,3 @@
 # cesta
 
-Princip mi vysvětlil Vikotor Šíp.
+Princip mi vysvětlil Viktor Šíp.
